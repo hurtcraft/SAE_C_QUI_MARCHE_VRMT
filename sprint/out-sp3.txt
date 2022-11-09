@@ -1,0 +1,526 @@
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Etudiant inconnu
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 17.0 12.0  7.0  8.0 13.0 
+matiere4 11.0 16.0 14.0 11.0  8.0 
+matiere2  7.0  3.0  9.0 17.0 12.0 
+matiere3 13.0  7.0 11.0 11.0 13.0 
+--
+Moyennes 12.0  9.5 10.2 11.7 11.5 
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+          UE1  UE2  UE3  UE4  UE5 
+matiere3  8.0  9.0   ND  8.0 10.0 
+matiere1 10.0 19.0  7.0  6.0   ND 
+matiere2 10.0 12.0 11.0   ND  9.0 
+--
+Moyennes  9.0 12.2  9.2  6.4  9.6 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 17.0 12.0  7.0  8.0 13.0 
+matiere4 11.0 16.0 14.0 11.0  8.0 
+matiere2  7.0  3.0  9.0 17.0 12.0 
+matiere3 13.0  7.0 11.0 11.0 13.0 
+--
+Moyennes 12.0  9.5 10.2 11.7 11.5 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3 12.0  8.0   ND 12.0 11.0 
+matiere1 13.0 10.0  4.0  3.0   ND 
+matiere2 13.0 20.0  7.0   ND 14.0 
+--
+Moyennes 12.5 12.4  5.7  4.8 12.0 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 14.0 14.0  8.0 12.0 14.0 
+matiere4 11.0 15.0 14.0 13.0 11.0 
+matiere2  7.0 12.0 14.0  6.0  7.0 
+matiere3  9.0 16.0 13.0 12.0  9.0 
+--
+Moyennes 10.2 14.2 12.2 10.7 10.2 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3 13.0 18.0   ND  9.0  8.0 
+matiere1 12.0  5.0 14.0 13.0   ND 
+matiere2 11.0  6.0 11.0   ND 10.0 
+--
+Moyennes 12.1 11.1 12.2 12.2  8.6 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 14.0  7.0  7.0 14.0  8.0 
+matiere4 13.0 13.0 10.0 12.0 18.0 
+matiere2 11.0 11.0  9.0  8.0 10.0 
+matiere3  8.0 13.0 10.0 14.0  8.0 
+--
+Moyennes 11.5 11.0  9.0 12.0 11.0 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3 15.0 17.0   ND 15.0  7.0 
+matiere1 11.0 15.0  8.0 15.0   ND 
+matiere2 13.0 17.0 10.0   ND 16.0 
+--
+Moyennes 13.6 16.5  9.1 15.0 10.0 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 10.0 19.0  8.0 14.0 13.0 
+matiere4 13.0  7.0 11.0 12.0 10.0 
+matiere2 16.0 11.0 14.0 16.0  3.0 
+matiere3  5.0  9.0  5.0  9.0 17.0 
+--
+Moyennes 11.0 11.5  9.5 12.7 10.7 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3 16.0 16.0   ND 13.0 18.0 
+matiere1  7.0  9.0 15.0 13.0   ND 
+matiere2 10.0 11.0 12.0   ND 11.0 
+--
+Moyennes 12.5 12.7 13.2 13.0 15.6 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 13.0 15.0 15.0 11.0 10.0 
+matiere4  3.0  4.0 11.0  9.0  9.0 
+matiere2  6.0 15.0 13.0 13.0 11.0 
+matiere3 17.0  6.0  9.0  5.0 12.0 
+--
+Moyennes  9.7 10.0 12.0  9.5 10.5 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3 17.0 18.0   ND  9.0 14.0 
+matiere1 18.0 13.0  8.0  9.0   ND 
+matiere2 11.0 11.0 16.0   ND 13.0 
+--
+Moyennes 15.1 14.5 12.5  9.0 13.6 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1  7.0  6.0 13.0  7.0 16.0 
+matiere4  9.0 10.0 12.0 13.0 11.0 
+matiere2 14.0 17.0 13.0  9.0  7.0 
+matiere3 16.0  9.0 16.0  6.0  9.0 
+--
+Moyennes 11.5 10.5 13.5  8.7 10.7 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3  7.0 15.0   ND 15.0 13.0 
+matiere1  9.0 10.0  8.0 10.0   ND 
+matiere2 17.0  3.0 15.0   ND  8.0 
+--
+Moyennes 10.6  9.8 12.0 11.0 11.3 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 10.0 10.0  9.0 11.0  7.0 
+matiere4 16.0  9.0 11.0 10.0  7.0 
+matiere2 17.0  4.0  7.0 13.0 14.0 
+matiere3 13.0  6.0 13.0 14.0  8.0 
+--
+Moyennes 14.0  7.2 10.0 12.0  9.0 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3 13.0 12.0   ND  8.0 11.0 
+matiere1 12.0  8.0 12.0 10.0   ND 
+matiere2 16.0  8.0 13.0   ND  9.0 
+--
+Moyennes 13.8  9.7 12.5  9.6 10.3 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 14.0 11.0  9.0 18.0  9.0 
+matiere4 17.0  9.0  8.0 12.0 13.0 
+matiere2 12.0 11.0  7.0  9.0 13.0 
+matiere3 10.0  6.0  9.0 13.0  7.0 
+--
+Moyennes 13.2  9.2  8.2 13.0 10.5 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3  6.0 12.0   ND  3.0 11.0 
+matiere1 13.0 11.0  8.0 11.0   ND 
+matiere2 18.0 17.0  8.0   ND 10.0 
+--
+Moyennes 11.1 13.4  8.0  9.4 10.6 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 12.0 12.0  7.0 11.0 11.0 
+matiere4 13.0  7.0 13.0  8.0 13.0 
+matiere2 12.0 14.0  7.0 10.0 13.0 
+matiere3  3.0  8.0 13.0 11.0 10.0 
+--
+Moyennes 10.0 10.2 10.0 10.0 11.7 
+          UE1  UE2  UE3  UE4  UE5 
+matiere3  8.0 16.0   ND 13.0 13.0 
+matiere1  9.0  9.0 10.0 12.0   ND 
+matiere2 15.0  8.0  9.0   ND 16.0 
+--
+Moyennes 10.5 11.7  9.4 12.2 14.0 
+          UE1  UE2  UE3  UE4  UE5 
+matiere1 12.0  8.0 14.0 10.0  4.0 
+matiere4 12.0  9.0 11.0  5.0  8.0 
+matiere2  9.0 12.0 13.0 14.0 11.0 
+matiere3  7.0  7.0  7.0 12.0 14.0 
+--
+Moyennes 10.0  9.0 11.2 10.2  9.2 

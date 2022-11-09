@@ -1,0 +1,20 @@
+formation 3
+epreuve 1 Communication Participation 1 0 2
+epreuve 1 Communication DST 2 0 1
+epreuve 2 SGBD Participation 0 2 2.5
+epreuve 2 SGBD Rapport 1 1 0
+decision Paul
+note 1 Paul Communication Participation 5
+decision Paul
+note 1 Paul Communication DST 7
+note 2 Paul SGBD Participation 17
+note 2 Paul SGBD Rapport 16
+decision Paul
+epreuve 1 Architecture Interrogation 1 1 3
+epreuve 2 Developpement Expose 3 1 1.5
+note 1 Paul Architecture Interrogation 12
+decision Paul
+note 2 Paul Developpement Expose 5
+decision Paule
+decision Paul
+exit

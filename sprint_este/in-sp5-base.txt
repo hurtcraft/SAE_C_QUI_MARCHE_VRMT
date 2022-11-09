@@ -1,0 +1,13 @@
+formation 3
+epreuve 1 Programmation Projet 0 2 1
+epreuve 1 Programmation DST 2.5 0 1
+epreuve 1 Economie Projet 2 1 1
+epreuve 1 Economie DST 2 0 1.5
+epreuve 1 Economie QCM 2.5 1 1
+
+
+epreuve 2 Architecture Interrogation 1 0 2
+epreuve 2 Architecture DST 0 1 4
+epreuve 2 Systeme QCM 2 3 0.5
+epreuve 2 Systeme Expose 3 2 0.5
+exit

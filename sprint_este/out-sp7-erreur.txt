@@ -1,0 +1,30 @@
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Etudiant inconnu
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Les coefficients d'au moins un semestre sont incorrects
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Les coefficients d'au moins un semestre sont incorrects
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Etudiant inconnu
+                   UE1  UE2   UE3
+s1                 7.7  12.0  8.8
+s2                 7.7  13.7  12.5
+--
+Moyennes annuelles 7.7  12.8  10.6
+Acquisition        UE2 , UE3
+Devenir            Passage

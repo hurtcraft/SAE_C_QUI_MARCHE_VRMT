@@ -1,0 +1,41 @@
+formation 3
+epreuve 1 Communication Participation 1 0 2
+epreuve 1 Communication DST 2 0 1
+epreuve 1 Architecture Interrogation 1 0 3
+epreuve 1 Architecture DST 0 2 2
+epreuve 2 Developpement QCM 3 3 1
+epreuve 2 Developpement Expose 3 1 1.5
+epreuve 2 SGBD Participation 0 2 2.5
+epreuve 2 SGBD Rapport 1 1 0
+
+note 1 Paul Communication Participation 5
+note 1 Paul Communication DST 7
+note 1 Paul Architecture Interrogation 12
+note 1 Paul Architecture DST 17
+note 2 Paul Developpement QCM 13
+note 2 Paul Developpement Expose 5
+note 2 Paul SGBD Participation 17
+note 2 Paul SGBD Rapport 16
+
+note 1 Paule Communication Participation 12
+note 1 Paule Communication DST 10
+note 1 Paule Architecture Interrogation 8
+note 1 Paule Architecture DST 9
+note 2 Paule Developpement QCM 17
+note 2 Paule Developpement Expose 16
+note 2 Paule SGBD Participation 5
+note 2 Paule SGBD Rapport 16
+
+note 1 Paulo Communication Participation 11
+note 1 Paulo Communication DST 5
+note 1 Paulo Architecture Interrogation 10
+note 1 Paulo Architecture DST 11
+note 2 Paulo Developpement QCM 8
+note 2 Paulo Developpement Expose 14
+note 2 Paulo SGBD Participation 9
+note 2 Paulo SGBD Rapport 2
+
+decision Paul
+decision Paule
+decision Paulo
+exit

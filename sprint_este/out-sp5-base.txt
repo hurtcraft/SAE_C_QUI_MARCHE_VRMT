@@ -1,0 +1,14 @@
+epreuve 1 Programmation Projet 0 2 1
+formation 2
+formation 7
+formation 3
+epreuve 1 Programmation Projet 0 2 1
+formation 3
+epreuve 1 Programmation DST 0 0 0
+epreuve 1 Programmation DST 2 0 -1
+epreuve 1 Programmation DST 2 0 1
+epreuve 1 Programmation DST_2 2 0 1
+epreuve 3 Programmation DST 2 0 1
+epreuve 2 Programmation DST 2 0 1
+epreuve 1 Economime DST 1 3 1
+exit

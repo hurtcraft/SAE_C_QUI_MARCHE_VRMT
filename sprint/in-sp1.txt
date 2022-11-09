@@ -1,0 +1,124 @@
+formation 6
+epreuve 2 matiere4 epreuve5 0 5 0 0 0 0
+epreuve 1 matiere1 epreuve1 1 0 0 0 0 0
+epreuve 2 matiere4 epreuve1 0 0 0 1 0 0
+epreuve 2 matiere2 epreuve1 0 0 0 0 0 1
+epreuve 2 matiere9 epreuve2 0 0 0 0 0 2
+epreuve 1 matiere3 epreuve5 0 0 5 0 0 0
+epreuve 2 matiere6 epreuve1 0 1 0 0 0 0
+epreuve 1 matiere7 epreuve2 0 2 0 0 0 0
+epreuve 2 matiere1 epreuve4 0 0 0 4 0 0
+epreuve 1 matiere2 epreuve1 0 0 0 0 0 1
+epreuve 1 matiere10 epreuve2 0 0 0 0 2 0
+epreuve 2 matiere10 epreuve4 4 0 0 0 0 0
+coefficients 2
+epreuve 2 matiere8 epreuve5 0 0 0 5 0 0
+epreuve 1 matiere4 epreuve3 0 0 0 0 0 3
+epreuve 2 matiere3 epreuve2 0 0 0 0 0 2
+epreuve 2 matiere2 epreuve3 0 3 0 0 0 0
+epreuve 2 matiere1 epreuve3 0 0 3 0 0 0
+coefficients 1
+epreuve 2 matiere5 epreuve2 0 0 0 2 0 0
+epreuve 1 matiere5 epreuve2 0 0 0 2 0 0
+epreuve 2 matiere9 epreuve5 0 0 5 0 0 0
+epreuve 2 matiere3 epreuve3 3 0 0 0 0 0
+epreuve 1 matiere8 epreuve3 0 3 0 0 0 0
+epreuve 1 matiere3 epreuve1 0 0 0 0 1 0
+epreuve 1 matiere4 epreuve4 4 0 0 0 0 0
+epreuve 2 matiere1 epreuve2 0 2 0 0 0 0
+epreuve 1 matiere2 epreuve4 0 0 4 0 0 0
+epreuve 2 matiere4 epreuve3 0 0 0 0 0 3
+epreuve 1 matiere6 epreuve1 0 1 0 0 0 0
+epreuve 2 matiere2 epreuve5 0 0 0 5 0 0
+epreuve 2 matiere7 epreuve3 0 0 3 0 0 0
+epreuve 2 matiere6 epreuve4 0 0 0 0 4 0
+coefficients 1
+epreuve 2 matiere1 epreuve1 1 0 0 0 0 0
+epreuve 1 matiere5 epreuve5 5 0 0 0 0 0
+epreuve 2 matiere10 epreuve5 0 5 0 0 0 0
+epreuve 1 matiere3 epreuve4 0 4 0 0 0 0
+coefficients 1
+epreuve 1 matiere1 epreuve4 0 0 0 4 0 0
+epreuve 2 matiere3 epreuve5 0 0 5 0 0 0
+epreuve 1 matiere9 epreuve2 0 0 0 0 0 2
+epreuve 1 matiere9 epreuve5 0 0 5 0 0 0
+epreuve 2 matiere4 epreuve4 4 0 0 0 0 0
+epreuve 2 matiere10 epreuve1 0 0 0 1 0 0
+coefficients 1
+epreuve 1 matiere6 epreuve4 0 0 0 0 4 0
+epreuve 2 matiere9 epreuve4 0 4 0 0 0 0
+epreuve 2 matiere2 epreuve4 0 0 4 0 0 0
+coefficients 1
+epreuve 1 matiere8 epreuve2 2 0 0 0 0 0
+epreuve 1 matiere1 epreuve5 0 0 0 0 5 0
+coefficients 2
+epreuve 1 matiere8 epreuve1 0 0 0 0 0 1
+coefficients 2
+epreuve 2 matiere7 epreuve2 0 2 0 0 0 0
+epreuve 1 matiere1 epreuve3 0 0 3 0 0 0
+epreuve 1 matiere2 epreuve2 2 0 0 0 0 0
+epreuve 2 matiere7 epreuve4 0 0 0 4 0 0
+coefficients 2
+epreuve 1 matiere7 epreuve4 0 0 0 4 0 0
+epreuve 1 matiere10 epreuve4 4 0 0 0 0 0
+epreuve 1 matiere1 epreuve2 0 2 0 0 0 0
+epreuve 1 matiere4 epreuve2 0 0 0 0 2 0
+epreuve 2 matiere8 epreuve2 2 0 0 0 0 0
+epreuve 1 matiere7 epreuve5 0 0 0 0 5 0
+epreuve 1 matiere4 epreuve5 0 5 0 0 0 0
+epreuve 1 matiere9 epreuve4 0 4 0 0 0 0
+epreuve 1 matiere7 epreuve3 0 0 3 0 0 0
+epreuve 2 matiere1 epreuve5 0 0 0 0 5 0
+epreuve 2 matiere8 epreuve3 0 3 0 0 0 0
+coefficients 2
+epreuve 1 matiere5 epreuve1 0 0 1 0 0 0
+epreuve 1 matiere2 epreuve3 0 3 0 0 0 0
+epreuve 2 matiere5 epreuve4 0 0 0 0 0 4
+epreuve 1 matiere10 epreuve1 0 0 0 1 0 0
+epreuve 2 matiere6 epreuve2 0 0 2 0 0 0
+epreuve 1 matiere8 epreuve5 0 0 0 5 0 0
+coefficients 1
+epreuve 1 matiere9 epreuve3 3 0 0 0 0 0
+epreuve 1 matiere6 epreuve2 0 0 2 0 0 0
+coefficients 2
+coefficients 1
+epreuve 1 matiere10 epreuve5 0 5 0 0 0 0
+epreuve 2 matiere9 epreuve1 0 0 0 0 1 0
+epreuve 1 matiere4 epreuve1 0 0 0 1 0 0
+coefficients 1
+coefficients 2
+epreuve 2 matiere6 epreuve3 0 0 0 3 0 0
+epreuve 2 matiere5 epreuve5 5 0 0 0 0 0
+epreuve 1 matiere3 epreuve2 0 0 0 0 0 2
+coefficients 1
+epreuve 1 matiere9 epreuve1 0 0 0 0 1 0
+epreuve 1 matiere10 epreuve3 0 0 0 0 0 3
+epreuve 2 matiere6 epreuve5 0 0 0 0 0 5
+epreuve 1 matiere7 epreuve1 1 0 0 0 0 0
+epreuve 2 matiere2 epreuve2 2 0 0 0 0 0
+coefficients 2
+epreuve 2 matiere10 epreuve2 0 0 0 0 2 0
+epreuve 2 matiere8 epreuve4 0 0 4 0 0 0
+epreuve 2 matiere3 epreuve4 0 4 0 0 0 0
+epreuve 2 matiere10 epreuve3 0 0 0 0 0 3
+epreuve 1 matiere6 epreuve3 0 0 0 3 0 0
+epreuve 2 matiere9 epreuve3 3 0 0 0 0 0
+coefficients 1
+epreuve 1 matiere8 epreuve4 0 0 4 0 0 0
+epreuve 1 matiere6 epreuve5 0 0 0 0 0 5
+epreuve 2 matiere4 epreuve2 0 0 0 0 2 0
+epreuve 2 matiere3 epreuve1 0 0 0 0 1 0
+coefficients 2
+epreuve 1 matiere2 epreuve5 0 0 0 5 0 0
+epreuve 2 matiere5 epreuve1 0 0 1 0 0 0
+epreuve 1 matiere5 epreuve3 0 0 0 0 3 0
+epreuve 2 matiere8 epreuve1 0 0 0 0 0 1
+epreuve 1 matiere5 epreuve4 0 0 0 0 0 4
+epreuve 2 matiere5 epreuve3 0 0 0 0 3 0
+coefficients 2
+epreuve 2 matiere7 epreuve1 1 0 0 0 0 0
+epreuve 1 matiere3 epreuve3 3 0 0 0 0 0
+epreuve 2 matiere7 epreuve5 0 0 0 0 5 0
+coefficients 1
+coefficients 2
+exit

@@ -1,0 +1,61 @@
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+                   UE1  UE2   UE3
+s1                 7.7  17.0  10.8
+s2                 10.0  13.4  12.6
+--
+Moyennes annuelles 8.8  15.2  11.7
+Acquisition        UE2 , UE3
+Devenir            Passage
+                   UE1  UE2   UE3
+s1                 10.0  9.0  9.5
+s2                 16.4  13.2  10.7
+--
+Moyennes annuelles 13.2  11.1  10.1
+Acquisition        UE1 , UE2 , UE3
+Devenir            Passage
+                   UE1  UE2   UE3
+s1                 7.7  11.0  9.8
+s2                 9.7  8.2  10.3
+--
+Moyennes annuelles 8.7  9.6  10.0
+Acquisition        UE3
+Devenir            Redoublement

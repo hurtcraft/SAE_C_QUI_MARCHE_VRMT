@@ -1,0 +1,16 @@
+Le nombre d'UE n'est pas defini
+Le nombre d'UE est incorrect
+Le nombre d'UE est incorrect
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Le nombre d'UE est deja defini
+Au moins un des coefficients est incorrect
+Au moins un des coefficients est incorrect
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Le numero de semestre est incorrect
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation

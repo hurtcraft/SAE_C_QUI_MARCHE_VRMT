@@ -1,0 +1,10 @@
+coefficients 4
+coefficients 1
+formation 3
+coefficient 2
+epreuve 1 Communication QCM 2 2 0
+coefficients 2
+coefficients 1
+epreuve 1 Communication Participation 0 2 2
+coefficients 1
+exit

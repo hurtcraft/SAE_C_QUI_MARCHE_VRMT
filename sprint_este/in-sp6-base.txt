@@ -1,0 +1,40 @@
+formation 3
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Economie QCM 2 1 1
+epreuve 1 Communication Participation 0.5 0 0.5
+epreuve 1 SGBD Rapport 1.5 0 1.5
+epreuve 1 Communication Rapport 1.5 0 1.5
+
+epreuve 2 Programmation Projet 1 2 0
+epreuve 2 Architecture DST 1 2 2
+epreuve 2 Systeme QCM 2 3 0.5
+epreuve 2 SGBD DST 3 2 0.5
+epreuve 2 Systeme Expose 3 2 0.5
+
+note 1 Julien Programmation Projet 12
+note 1 Julien Economie QCM 9
+note 1 Julien Communication Participation 16
+note 1 Julien SGBD Rapport 12
+note 1 Julien Communication Rapport 18
+
+note 2 Julien Programmation Projet 1 2 0
+note 2 Julien Architecture DST 18
+note 2 Julien Systeme QCM 7
+note 2 Julien SGBD DST 12
+note 2 Julien Systeme Expose 18
+
+notes 1 Julien 
+notes 2 Julien
+releve 1 Julien 
+releve 2 Julien 
+note 2 Julien Systeme Expose 1
+releve 2 Julien
+
+note 2 Esteban Programmation Projet 13
+note 2 Esteban Architecture DST 12
+note 2 Esteban Systeme QCM 16
+note 2 Esteban SGBD DST 7
+note 2 Esteban Systeme Expose 9
+notes 2 Esteban
+releve 2 Esteban 
+exit

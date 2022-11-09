@@ -1,0 +1,16 @@
+formation 3
+epreuve 1 Communication QCM 1 0 3
+epreuve 1 Communication DST 1 0 0
+epreuve 2 SGBD Participation 2 0 0.5
+epreuve 2 SGBD DST 1.5 0 1.5
+coefficients 1
+coefficients 2
+epreuve 1 Architecture Interrogation 2 0 2
+epreuve 2 Architecture DST 2 4 2
+coefficients 1
+coefficients 2
+epreuve 1 Economie Projet 1 1 1
+epreuve 2 Economie DST 1 0 3
+coefficients 1
+coefficients 2
+exit
