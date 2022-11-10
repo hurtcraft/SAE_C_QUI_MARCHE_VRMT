@@ -26,6 +26,7 @@ void affiche_erreur_coeff(int num_erreur);
 void affiche_erreur_note(int num_erreur);
 int get_etudiant_indice(char nom_etudiant[], const char liste_etudiant[][MAX_CHAR], int nb_etudiant);
 void print_entete_UE(int nb_UE);
+int get_max_space(const Formation *ma_formation,int num_semestre);
 char *add_space(char ma_chaine[], int nb_space);
 float *get_releve(const Formation *ma_formation, const char liste_etudiant[][MAX_CHAR],BOOL do_affichage,int num_semestre,char nom_etudiant[]);
 
@@ -358,14 +359,18 @@ float *get_releve(const Formation *ma_formation, const char liste_etudiant[][MAX
         return releve_etudiant;
     }
     int nb_matiere=ma_formation->liste_semestres[num_semestre-1].nb_matieres;
+  
+    int nb_space=get_max_space(ma_formation,num_semestre);
+
     if (do_affichage)
     {
+        printf("%s",add_space(" ",nb_space));
+        
         print_entete_UE(ma_formation->nb_UE);
 
     }
     
     char nom_matiere[MAX_CHAR];
-    int nb_space=13;
     float somme_coeff=0;
     float somme_notes=0;
     int nb_epreuve;
@@ -399,11 +404,11 @@ float *get_releve(const Formation *ma_formation, const char liste_etudiant[][MAX
             }
             if (somme_coeff==0 && do_affichage)
             {
-                printf(" ND ");
+                printf("%5s","ND");
             }
             else if (somme_coeff > 0 && do_affichage)
             {
-                printf(" %.1f ", floorf((somme_notes / somme_coeff) * 10) / 10);
+                printf("%5.1f", floorf((somme_notes / somme_coeff) * 10) / 10);
             }
             tab_coeff_somme_UE[k]+=somme_coeff;
             tab_note_somme_UE[k]+=somme_notes;
@@ -431,7 +436,7 @@ float *get_releve(const Formation *ma_formation, const char liste_etudiant[][MAX
         releve_etudiant[i]=moyenne;
         if (do_affichage)
         {
-            printf(" %.1f ", floorf(moyenne * 10) / 10);
+            printf("%5.1f", floorf(moyenne * 10) / 10);
         }
     }
     if (do_affichage)
@@ -441,18 +446,30 @@ float *get_releve(const Formation *ma_formation, const char liste_etudiant[][MAX
     return releve_etudiant;
 }
 void decision(const Formation *ma_formation, const char liste_etudiant[][MAX_CHAR]){
+    
     char nom_etudiant[MAX_CHAR];
     scanf("%s",nom_etudiant);
-    print_entete_UE(ma_formation->nb_UE);
+
     float * releve;
     float tab_moyenne_anuelles[MAX_UE]={0};
     for (size_t i = 1; i < NB_SEMESTRES+1; i++)
     {
+        releve=get_releve(ma_formation,liste_etudiant,False,i,nom_etudiant);
+        if(releve[0]==-1){
+            return;
+        }
+    }
+    printf("%18s"," ");
+    print_entete_UE(ma_formation->nb_UE);
+
+    for (size_t i = 1; i < NB_SEMESTRES+1; i++)
+    {
         printf("S%d                ",i);
         releve=get_releve(ma_formation,liste_etudiant,False,i,nom_etudiant);
+
         for (size_t j = 0; j < ma_formation->nb_UE; j++)
         {
-            printf(" %.1f ",floorf(releve[j]*10)/10);
+            printf("%5.1f",floorf(releve[j]*10)/10);
             tab_moyenne_anuelles[j]+=releve[j]*0.5;// on multiplie par 0.5 comme sa on optient directement la moyenne anuelles pour chaque UE
         }                                          // car on sait que dans une formation il n'y a que 2 semestres.
         printf("\n");
@@ -463,7 +480,7 @@ void decision(const Formation *ma_formation, const char liste_etudiant[][MAX_CHA
 
     for (size_t i = 0; i < ma_formation->nb_UE; i++)
     {
-        printf(" %.1f ", floorf(tab_moyenne_anuelles[i] * 10) / 10);
+        printf("%5.1f", floorf(tab_moyenne_anuelles[i] * 10) / 10);
     }
 
     printf("\n%s", add_space("Acquisition", 18));
@@ -471,10 +488,10 @@ void decision(const Formation *ma_formation, const char liste_etudiant[][MAX_CHA
     int nb_UE_valide = 0;
     for (size_t i = 0; i < ma_formation->nb_UE; i++)
     {
-        if (tab_moyenne_anuelles[i] > 10)
+        if (tab_moyenne_anuelles[i] >= 10)
         {
-            printf(" UE%d ", i + 1);
-            if (i < ma_formation->nb_UE - 1)
+            printf(" UE%d", i + 1);
+            if (i < ma_formation->nb_UE-1)
             {
                 printf(",");
             }
@@ -722,23 +739,45 @@ void print_entete_UE(int nb_UE)
     /*
         affiche les entetes d'UE dans les commandes 7 et 8
     */
+
     for (size_t i = 1; i < nb_UE + 1; i++)
     {
         if (i == 1)
         {
-            printf("                   UE%d", i);
+            printf("%4s%d", "UE",i);
         }
         else if (i < nb_UE)
         {
-            printf("  UE%d ", i);
+            printf("%4s%d", "UE",i);
         }
         else
         {
-            printf("  UE%d \n", i);
+            printf("%4s%d \n","UE", i);
         }
     }
 }
+int get_max_space(const Formation *ma_formation,int num_semestre){
+    /* renvoie la taille maximale du plus long nom de la matiere de toute la formation*/
+    int max=strlen("Moyennes");
+    int temp;
+    for (size_t j = 0; j < NB_SEMESTRES; j++)
+    {
+        for (size_t i = 0; i < ma_formation->liste_semestres[j].nb_matieres; i++)
+        {
+            temp=strlen(ma_formation->liste_semestres[j].liste_matieres[i].nom);
+            if (temp>max)
+            {
+                max=temp;
+            }
 
+        
+        }
+    }
+    
+
+    return max;
+    
+}
 char *add_space(char ma_chaine[], int nb_space)
 {
     /*

@@ -1,0 +1,1174 @@
+formation 5
+epreuve 2 matiere2 epreuve3 0 0 3 0 0
+epreuve 2 matiere4 epreuve4 0 0 0 4 0
+epreuve 2 matiere1 epreuve4 0 0 0 4 0
+epreuve 1 matiere1 epreuve3 0 0 3 0 0
+epreuve 2 matiere3 epreuve5 0 0 0 0 5
+epreuve 2 matiere1 epreuve5 0 0 0 0 5
+epreuve 2 matiere3 epreuve4 0 0 0 4 0
+epreuve 1 matiere3 epreuve1 0 0 0 1 0
+epreuve 1 matiere1 epreuve1 1 0 0 0 0
+epreuve 2 matiere2 epreuve1 1 0 0 0 0
+epreuve 2 matiere2 epreuve5 0 0 0 0 5
+epreuve 1 matiere3 epreuve4 0 4 0 0 0
+epreuve 2 matiere1 epreuve1 1 0 0 0 0
+epreuve 2 matiere2 epreuve4 0 0 0 4 0
+epreuve 2 matiere4 epreuve5 0 0 0 0 5
+epreuve 1 matiere3 epreuve3 3 0 0 0 0
+epreuve 2 matiere2 epreuve2 0 2 0 0 0
+epreuve 2 matiere4 epreuve2 0 2 0 0 0
+epreuve 1 matiere1 epreuve4 0 0 0 4 0
+epreuve 2 matiere3 epreuve3 0 0 3 0 0
+epreuve 1 matiere2 epreuve1 0 0 0 0 1
+epreuve 1 matiere2 epreuve4 0 0 4 0 0
+epreuve 1 matiere3 epreuve2 0 0 0 0 2
+epreuve 2 matiere4 epreuve1 1 0 0 0 0
+epreuve 2 matiere4 epreuve3 0 0 3 0 0
+epreuve 2 matiere1 epreuve3 0 0 3 0 0
+epreuve 2 matiere1 epreuve2 0 2 0 0 0
+epreuve 1 matiere2 epreuve3 0 3 0 0 0
+epreuve 1 matiere2 epreuve2 2 0 0 0 0
+epreuve 2 matiere3 epreuve1 1 0 0 0 0
+epreuve 1 matiere1 epreuve2 0 2 0 0 0
+epreuve 2 matiere3 epreuve2 0 2 0 0 0
+note 2 etudiant15 matiere2 epreuve2 10
+note 2 etudiant6 matiere2 epreuve1 5
+note 1 etudiant15 matiere2 epreuve2 17
+note 1 etudiant23 matiere3 epreuve3 14
+note 2 etudiant8 matiere4 epreuve4 2
+note 2 etudiant20 matiere3 epreuve4 7
+note 1 etudiant10 matiere1 epreuve2 8
+note 1 etudiant30 matiere2 epreuve1 14
+note 2 etudiant18 matiere2 epreuve3 7
+note 2 etudiant24 matiere2 epreuve3 11
+note 1 etudiant2 matiere3 epreuve1 11
+note 1 etudiant12 matiere3 epreuve4 13
+note 2 etudiant5 matiere4 epreuve4 19
+note 2 etudiant15 matiere2 epreuve3 7
+note 2 etudiant14 matiere1 epreuve3 8
+note 2 etudiant30 matiere2 epreuve3 11
+note 2 etudiant27 matiere2 epreuve4 7
+note 1 etudiant19 matiere1 epreuve3 12
+note 1 etudiant12 matiere3 epreuve3 20
+note 1 etudiant17 matiere1 epreuve4 10
+decision etudiant15
+note 2 etudiant12 matiere3 epreuve1 11
+note 1 etudiant4 matiere1 epreuve3 11
+note 1 etudiant29 matiere1 epreuve2 11
+note 2 etudiant24 matiere2 epreuve2 4
+note 1 etudiant20 matiere2 epreuve4 6
+note 2 etudiant7 matiere3 epreuve1 11
+note 2 etudiant22 matiere3 epreuve3 13
+note 1 etudiant17 matiere3 epreuve1 8
+note 2 etudiant4 matiere4 epreuve1 13
+note 2 etudiant30 matiere1 epreuve2 11
+note 2 etudiant1 matiere2 epreuve4 20
+note 2 etudiant10 matiere4 epreuve2 11
+note 1 etudiant12 matiere3 epreuve2 10
+note 1 etudiant19 matiere2 epreuve4 8
+note 2 etudiant14 matiere4 epreuve4 6
+note 1 etudiant16 matiere2 epreuve3 12
+note 2 etudiant29 matiere4 epreuve5 12
+note 1 etudiant17 matiere2 epreuve1 6
+note 1 etudiant20 matiere1 epreuve4 13
+note 1 etudiant4 matiere3 epreuve1 10
+note 1 etudiant2 matiere3 epreuve4 10
+note 2 etudiant12 matiere4 epreuve2 9
+releve 1 etudiant1
+note 2 etudiant1 matiere3 epreuve2 16
+note 2 etudiant20 matiere4 epreuve3 11
+note 1 etudiant26 matiere3 epreuve2 15
+note 2 etudiant24 matiere2 epreuve4 8
+note 2 etudiant16 matiere2 epreuve2 20
+note 2 etudiant3 matiere1 epreuve4 8
+note 1 etudiant6 matiere2 epreuve1 12
+note 2 etudiant22 matiere3 epreuve2 15
+note 2 etudiant5 matiere3 epreuve1 7
+note 1 etudiant25 matiere1 epreuve4 14
+note 2 etudiant5 matiere2 epreuve4 5
+note 1 etudiant3 matiere3 epreuve3 12
+note 1 etudiant23 matiere2 epreuve1 12
+note 2 etudiant6 matiere4 epreuve2 5
+note 2 etudiant6 matiere3 epreuve5 10
+note 1 etudiant20 matiere3 epreuve4 12
+note 2 etudiant18 matiere1 epreuve5 6
+note 2 etudiant1 matiere4 epreuve3 6
+note 1 etudiant9 matiere1 epreuve4 11
+note 1 etudiant6 matiere1 epreuve3 15
+note 2 etudiant28 matiere2 epreuve4 13
+note 1 etudiant12 matiere1 epreuve1 8
+note 2 etudiant2 matiere3 epreuve3 12
+note 1 etudiant10 matiere3 epreuve1 18
+note 2 etudiant15 matiere1 epreuve2 8
+note 2 etudiant28 matiere4 epreuve1 7
+note 1 etudiant20 matiere3 epreuve3 11
+releve 1 etudiant20
+note 2 etudiant10 matiere3 epreuve3 10
+note 2 etudiant13 matiere3 epreuve5 14
+note 2 etudiant11 matiere2 epreuve1 6
+note 1 etudiant18 matiere1 epreuve1 15
+note 2 etudiant2 matiere4 epreuve1 12
+note 2 etudiant25 matiere4 epreuve3 13
+note 1 etudiant17 matiere1 epreuve3 16
+releve 1 etudiant30
+note 2 etudiant22 matiere3 epreuve5 14
+releve 1 etudiant18
+note 2 etudiant23 matiere2 epreuve1 12
+note 2 etudiant3 matiere4 epreuve3 11
+note 2 etudiant30 matiere1 epreuve1 8
+note 2 etudiant17 matiere1 epreuve4 7
+note 1 etudiant25 matiere2 epreuve1 9
+note 1 etudiant16 matiere2 epreuve4 13
+note 2 etudiant6 matiere1 epreuve2 9
+note 1 etudiant6 matiere3 epreuve1 11
+note 2 etudiant24 matiere4 epreuve2 12
+note 2 etudiant3 matiere2 epreuve2 10
+releve 2 etudiant7
+note 2 etudiant13 matiere3 epreuve4 10
+note 1 etudiant9 matiere2 epreuve3 13
+note 2 etudiant12 matiere3 epreuve4 14
+note 1 etudiant5 matiere1 epreuve2 7
+note 1 etudiant6 matiere2 epreuve3 12
+note 2 etudiant11 matiere3 epreuve3 6
+note 2 etudiant15 matiere2 epreuve1 13
+releve 2 etudiant15
+note 1 etudiant14 matiere1 epreuve4 7
+note 2 etudiant16 matiere3 epreuve1 8
+note 2 etudiant4 matiere4 epreuve4 14
+note 1 etudiant26 matiere3 epreuve3 7
+note 1 etudiant24 matiere1 epreuve1 12
+note 1 etudiant25 matiere3 epreuve1 15
+note 2 etudiant8 matiere3 epreuve4 8
+releve 2 etudiant19
+note 1 etudiant28 matiere2 epreuve3 16
+note 2 etudiant27 matiere3 epreuve1 12
+note 2 etudiant7 matiere4 epreuve5 11
+note 2 etudiant3 matiere3 epreuve4 10
+note 1 etudiant30 matiere1 epreuve3 13
+note 2 etudiant24 matiere1 epreuve3 13
+note 2 etudiant13 matiere4 epreuve1 14
+note 1 etudiant9 matiere2 epreuve2 8
+note 2 etudiant10 matiere1 epreuve5 7
+note 1 etudiant21 matiere1 epreuve4 8
+releve 1 etudiant16
+note 1 etudiant24 matiere2 epreuve4 10
+note 1 etudiant22 matiere2 epreuve4 12
+note 2 etudiant30 matiere3 epreuve3 12
+note 2 etudiant28 matiere1 epreuve5 9
+note 2 etudiant4 matiere2 epreuve3 13
+note 1 etudiant13 matiere3 epreuve4 11
+note 1 etudiant29 matiere1 epreuve4 10
+note 2 etudiant7 matiere2 epreuve5 3
+note 2 etudiant7 matiere1 epreuve5 12
+note 1 etudiant22 matiere2 epreuve1 11
+note 1 etudiant3 matiere1 epreuve4 16
+releve 2 etudiant8
+note 2 etudiant6 matiere4 epreuve1 12
+note 1 etudiant15 matiere3 epreuve1 11
+note 2 etudiant24 matiere2 epreuve1 13
+note 1 etudiant27 matiere2 epreuve2 8
+note 1 etudiant18 matiere1 epreuve2 11
+note 1 etudiant17 matiere2 epreuve3 12
+note 1 etudiant23 matiere1 epreuve1 8
+note 1 etudiant26 matiere1 epreuve3 14
+releve 1 etudiant24
+note 2 etudiant2 matiere2 epreuve5 10
+note 2 etudiant10 matiere3 epreuve2 16
+note 1 etudiant14 matiere2 epreuve1 8
+note 1 etudiant29 matiere2 epreuve2 9
+note 1 etudiant1 matiere2 epreuve3 11
+note 2 etudiant16 matiere2 epreuve4 7
+note 1 etudiant26 matiere1 epreuve1 10
+note 1 etudiant12 matiere2 epreuve2 14
+note 1 etudiant27 matiere3 epreuve3 11
+note 2 etudiant26 matiere4 epreuve1 15
+note 2 etudiant18 matiere1 epreuve4 10
+decision etudiant19
+note 2 etudiant23 matiere2 epreuve5 14
+note 2 etudiant4 matiere1 epreuve1 5
+note 2 etudiant26 matiere2 epreuve5 14
+note 2 etudiant24 matiere1 epreuve5 14
+note 1 etudiant12 matiere1 epreuve2 12
+note 1 etudiant24 matiere3 epreuve1 11
+note 2 etudiant15 matiere1 epreuve1 13
+releve 2 etudiant12
+note 2 etudiant18 matiere4 epreuve2 9
+decision etudiant7
+note 1 etudiant19 matiere3 epreuve2 11
+note 2 etudiant26 matiere4 epreuve5 8
+note 2 etudiant2 matiere3 epreuve1 15
+note 2 etudiant17 matiere1 epreuve5 14
+note 2 etudiant26 matiere4 epreuve2 10
+note 1 etudiant2 matiere3 epreuve3 8
+note 2 etudiant23 matiere4 epreuve1 13
+note 2 etudiant4 matiere2 epreuve4 17
+note 1 etudiant5 matiere2 epreuve2 5
+note 2 etudiant6 matiere1 epreuve3 11
+note 2 etudiant28 matiere3 epreuve4 9
+note 2 etudiant8 matiere4 epreuve3 10
+note 1 etudiant9 matiere3 epreuve2 10
+note 1 etudiant1 matiere2 epreuve2 10
+note 1 etudiant16 matiere3 epreuve2 7
+note 1 etudiant23 matiere2 epreuve3 15
+note 2 etudiant19 matiere4 epreuve5 14
+note 2 etudiant15 matiere1 epreuve5 16
+note 2 etudiant18 matiere3 epreuve3 16
+note 1 etudiant22 matiere3 epreuve3 19
+note 2 etudiant29 matiere2 epreuve5 14
+note 2 etudiant22 matiere2 epreuve4 8
+note 2 etudiant9 matiere2 epreuve2 7
+note 2 etudiant3 matiere1 epreuve2 13
+note 2 etudiant18 matiere2 epreuve5 12
+note 2 etudiant17 matiere2 epreuve4 8
+releve 2 etudiant24
+note 1 etudiant23 matiere1 epreuve2 11
+note 1 etudiant22 matiere3 epreuve2 8
+note 2 etudiant3 matiere1 epreuve3 10
+note 2 etudiant3 matiere3 epreuve3 8
+note 2 etudiant28 matiere1 epreuve2 9
+note 2 etudiant16 matiere4 epreuve2 11
+note 2 etudiant9 matiere4 epreuve3 16
+note 2 etudiant22 matiere1 epreuve5 13
+note 2 etudiant8 matiere4 epreuve1 15
+note 2 etudiant23 matiere2 epreuve4 6
+note 2 etudiant1 matiere4 epreuve1 6
+note 2 etudiant29 matiere3 epreuve5 17
+note 2 etudiant23 matiere1 epreuve1 8
+releve 2 etudiant27
+note 2 etudiant13 matiere2 epreuve3 10
+note 1 etudiant26 matiere2 epreuve2 12
+note 1 etudiant26 matiere2 epreuve1 10
+note 1 etudiant13 matiere1 epreuve3 11
+note 1 etudiant1 matiere2 epreuve4 12
+note 2 etudiant17 matiere4 epreuve4 13
+note 1 etudiant7 matiere2 epreuve4 13
+note 2 etudiant1 matiere1 epreuve3 16
+note 2 etudiant2 matiere1 epreuve2 11
+note 1 etudiant8 matiere2 epreuve3 7
+note 1 etudiant30 matiere2 epreuve3 13
+note 1 etudiant26 matiere2 epreuve4 8
+note 2 etudiant8 matiere4 epreuve2 12
+note 1 etudiant3 matiere3 epreuve4 10
+note 1 etudiant5 matiere2 epreuve1 9
+note 2 etudiant12 matiere2 epreuve1 6
+note 2 etudiant19 matiere2 epreuve2 8
+note 1 etudiant9 matiere3 epreuve1 13
+note 2 etudiant17 matiere3 epreuve5 14
+note 2 etudiant18 matiere4 epreuve3 13
+note 2 etudiant28 matiere4 epreuve2 12
+note 2 etudiant10 matiere2 epreuve3 9
+note 1 etudiant1 matiere2 epreuve1 13
+note 1 etudiant8 matiere2 epreuve1 14
+note 2 etudiant17 matiere4 epreuve5 13
+note 2 etudiant2 matiere2 epreuve2 6
+note 2 etudiant4 matiere3 epreuve2 10
+note 2 etudiant6 matiere4 epreuve5 11
+note 2 etudiant17 matiere1 epreuve1 7
+note 2 etudiant7 matiere1 epreuve2 9
+note 2 etudiant29 matiere3 epreuve2 8
+note 2 etudiant10 matiere4 epreuve5 14
+note 2 etudiant23 matiere3 epreuve4 14
+note 1 etudiant14 matiere2 epreuve4 7
+note 2 etudiant26 matiere3 epreuve3 10
+note 1 etudiant23 matiere1 epreuve3 8
+note 2 etudiant26 matiere2 epreuve2 9
+note 1 etudiant5 matiere1 epreuve4 14
+releve 1 etudiant10
+note 2 etudiant15 matiere4 epreuve1 18
+note 2 etudiant30 matiere1 epreuve5 9
+releve 1 etudiant14
+note 1 etudiant22 matiere2 epreuve2 8
+note 1 etudiant4 matiere1 epreuve2 12
+note 2 etudiant13 matiere1 epreuve4 12
+note 2 etudiant17 matiere2 epreuve5 14
+note 2 etudiant24 matiere3 epreuve2 11
+note 2 etudiant6 matiere1 epreuve5 9
+note 2 etudiant26 matiere1 epreuve5 14
+note 2 etudiant8 matiere1 epreuve4 14
+note 1 etudiant29 matiere1 epreuve3 11
+note 2 etudiant14 matiere3 epreuve3 5
+note 2 etudiant20 matiere3 epreuve3 9
+note 2 etudiant26 matiere3 epreuve2 6
+note 1 etudiant2 matiere1 epreuve4 8
+note 1 etudiant9 matiere3 epreuve4 11
+note 2 etudiant5 matiere1 epreuve3 9
+note 2 etudiant6 matiere3 epreuve1 16
+note 1 etudiant1 matiere1 epreuve2 8
+releve 2 etudiant17
+note 2 etudiant29 matiere1 epreuve2 14
+note 2 etudiant8 matiere2 epreuve3 12
+note 2 etudiant18 matiere4 epreuve5 12
+releve 1 etudiant29
+note 2 etudiant14 matiere3 epreuve4 11
+note 2 etudiant2 matiere3 epreuve5 15
+note 2 etudiant3 matiere2 epreuve4 9
+note 1 etudiant14 matiere3 epreuve3 12
+note 2 etudiant1 matiere3 epreuve1 13
+note 2 etudiant21 matiere1 epreuve3 10
+note 2 etudiant27 matiere1 epreuve5 14
+note 1 etudiant8 matiere3 epreuve4 10
+releve 2 etudiant16
+note 1 etudiant24 matiere2 epreuve3 16
+note 1 etudiant29 matiere3 epreuve3 8
+note 1 etudiant2 matiere2 epreuve1 8
+note 1 etudiant8 matiere1 epreuve4 15
+note 2 etudiant9 matiere3 epreuve4 5
+note 2 etudiant29 matiere4 epreuve2 17
+releve 1 etudiant8
+note 2 etudiant5 matiere4 epreuve2 10
+note 2 etudiant19 matiere3 epreuve1 14
+note 1 etudiant9 matiere3 epreuve3 14
+note 1 etudiant19 matiere2 epreuve2 10
+note 1 etudiant12 matiere2 epreuve3 6
+note 1 etudiant10 matiere3 epreuve4 10
+note 2 etudiant9 matiere2 epreuve5 13
+note 1 etudiant6 matiere3 epreuve2 12
+note 1 etudiant14 matiere3 epreuve2 4
+note 1 etudiant16 matiere2 epreuve2 10
+note 1 etudiant29 matiere2 epreuve1 7
+note 2 etudiant29 matiere3 epreuve4 13
+note 1 etudiant29 matiere2 epreuve3 10
+note 1 etudiant17 matiere1 epreuve2 14
+note 1 etudiant23 matiere2 epreuve4 7
+note 2 etudiant9 matiere2 epreuve1 10
+note 1 etudiant11 matiere3 epreuve2 11
+note 1 etudiant1 matiere3 epreuve1 11
+note 1 etudiant16 matiere3 epreuve3 14
+note 2 etudiant25 matiere3 epreuve1 8
+note 1 etudiant16 matiere3 epreuve1 13
+note 1 etudiant7 matiere1 epreuve2 8
+decision etudiant29
+note 1 etudiant22 matiere1 epreuve4 8
+note 2 etudiant21 matiere4 epreuve5 14
+note 2 etudiant18 matiere2 epreuve1 7
+note 1 etudiant26 matiere1 epreuve2 12
+note 2 etudiant5 matiere1 epreuve4 16
+note 2 etudiant22 matiere2 epreuve5 12
+note 1 etudiant3 matiere1 epreuve2 13
+note 2 etudiant7 matiere2 epreuve4 9
+note 2 etudiant3 matiere3 epreuve2 14
+note 2 etudiant29 matiere3 epreuve1 9
+note 1 etudiant3 matiere2 epreuve2 15
+releve 1 etudiant2
+note 2 etudiant1 matiere3 epreuve5 11
+note 2 etudiant17 matiere3 epreuve1 10
+note 1 etudiant4 matiere3 epreuve2 12
+note 2 etudiant12 matiere4 epreuve5 12
+releve 2 etudiant13
+note 2 etudiant12 matiere4 epreuve4 13
+note 2 etudiant11 matiere4 epreuve3 10
+note 2 etudiant23 matiere1 epreuve4 12
+note 2 etudiant15 matiere3 epreuve3 13
+note 2 etudiant28 matiere2 epreuve1 13
+note 2 etudiant26 matiere1 epreuve1 6
+note 2 etudiant10 matiere1 epreuve2 11
+note 2 etudiant11 matiere2 epreuve5 7
+decision etudiant18
+note 2 etudiant24 matiere4 epreuve5 6
+note 1 etudiant11 matiere3 epreuve3 11
+note 2 etudiant6 matiere4 epreuve3 10
+note 2 etudiant21 matiere4 epreuve3 14
+note 1 etudiant18 matiere2 epreuve1 10
+releve 1 etudiant27
+note 2 etudiant16 matiere3 epreuve4 11
+note 1 etudiant10 matiere1 epreuve3 12
+note 2 etudiant26 matiere2 epreuve1 12
+note 1 etudiant30 matiere3 epreuve4 18
+note 2 etudiant28 matiere2 epreuve3 13
+note 2 etudiant27 matiere3 epreuve2 10
+releve 1 etudiant11
+note 1 etudiant27 matiere3 epreuve4 11
+note 2 etudiant30 matiere4 epreuve4 15
+note 2 etudiant19 matiere1 epreuve3 15
+note 1 etudiant2 matiere3 epreuve2 12
+note 2 etudiant26 matiere1 epreuve4 16
+note 1 etudiant25 matiere2 epreuve2 11
+note 2 etudiant19 matiere2 epreuve4 9
+note 1 etudiant11 matiere2 epreuve1 15
+note 2 etudiant1 matiere2 epreuve1 12
+note 2 etudiant9 matiere3 epreuve3 7
+note 2 etudiant13 matiere1 epreuve3 8
+note 2 etudiant15 matiere3 epreuve4 15
+note 1 etudiant6 matiere3 epreuve3 13
+note 1 etudiant24 matiere3 epreuve2 12
+note 2 etudiant21 matiere1 epreuve2 11
+note 1 etudiant1 matiere3 epreuve2 15
+note 1 etudiant14 matiere1 epreuve3 11
+note 2 etudiant8 matiere1 epreuve1 13
+note 1 etudiant2 matiere2 epreuve2 7
+note 1 etudiant4 matiere1 epreuve4 8
+note 2 etudiant27 matiere3 epreuve5 9
+note 2 etudiant28 matiere1 epreuve1 9
+decision etudiant3
+note 1 etudiant10 matiere2 epreuve3 13
+note 1 etudiant21 matiere1 epreuve3 14
+note 2 etudiant24 matiere1 epreuve4 10
+note 2 etudiant27 matiere4 epreuve5 9
+note 2 etudiant8 matiere3 epreuve2 18
+note 1 etudiant9 matiere1 epreuve2 15
+releve 2 etudiant2
+note 1 etudiant6 matiere1 epreuve4 9
+note 2 etudiant17 matiere1 epreuve3 15
+note 1 etudiant4 matiere3 epreuve3 13
+note 2 etudiant15 matiere4 epreuve5 10
+note 2 etudiant20 matiere4 epreuve2 1
+note 2 etudiant15 matiere4 epreuve4 16
+note 1 etudiant17 matiere2 epreuve4 15
+note 2 etudiant18 matiere1 epreuve2 6
+note 1 etudiant6 matiere1 epreuve2 6
+note 1 etudiant30 matiere1 epreuve1 6
+note 2 etudiant18 matiere4 epreuve4 18
+note 2 etudiant30 matiere4 epreuve5 15
+note 1 etudiant6 matiere1 epreuve1 15
+note 2 etudiant11 matiere1 epreuve5 13
+note 2 etudiant29 matiere2 epreuve2 6
+note 2 etudiant19 matiere2 epreuve1 18
+note 2 etudiant12 matiere3 epreuve5 9
+note 2 etudiant26 matiere4 epreuve3 8
+note 2 etudiant14 matiere3 epreuve5 17
+note 2 etudiant8 matiere1 epreuve3 16
+note 2 etudiant10 matiere3 epreuve5 9
+note 1 etudiant26 matiere3 epreuve4 12
+note 2 etudiant10 matiere1 epreuve4 7
+note 2 etudiant30 matiere3 epreuve1 14
+note 2 etudiant2 matiere1 epreuve5 5
+note 1 etudiant4 matiere3 epreuve4 14
+note 2 etudiant20 matiere3 epreuve2 16
+note 1 etudiant5 matiere3 epreuve4 9
+releve 2 etudiant4
+note 1 etudiant15 matiere1 epreuve3 9
+note 1 etudiant30 matiere3 epreuve3 14
+decision etudiant10
+note 1 etudiant8 matiere3 epreuve1 14
+note 2 etudiant21 matiere1 epreuve4 15
+note 2 etudiant27 matiere2 epreuve1 17
+note 2 etudiant21 matiere2 epreuve3 1
+note 1 etudiant1 matiere1 epreuve1 13
+decision etudiant5
+note 2 etudiant4 matiere3 epreuve3 17
+note 1 etudiant19 matiere3 epreuve4 13
+releve 2 etudiant20
+note 1 etudiant6 matiere3 epreuve4 11
+note 1 etudiant14 matiere3 epreuve1 14
+note 1 etudiant19 matiere1 epreuve2 7
+note 2 etudiant9 matiere1 epreuve2 6
+note 1 etudiant4 matiere2 epreuve1 5
+note 1 etudiant10 matiere1 epreuve1 8
+note 1 etudiant1 matiere3 epreuve3 10
+note 1 etudiant24 matiere1 epreuve3 9
+note 2 etudiant23 matiere1 epreuve5 8
+releve 1 etudiant22
+note 1 etudiant26 matiere3 epreuve1 10
+note 2 etudiant27 matiere1 epreuve2 13
+note 2 etudiant16 matiere1 epreuve5 14
+note 1 etudiant22 matiere1 epreuve1 10
+note 2 etudiant8 matiere2 epreuve1 14
+releve 2 etudiant22
+note 2 etudiant19 matiere3 epreuve4 15
+note 2 etudiant24 matiere3 epreuve1 14
+note 2 etudiant23 matiere4 epreuve5 10
+note 1 etudiant2 matiere2 epreuve4 9
+note 2 etudiant14 matiere4 epreuve5 8
+note 2 etudiant20 matiere4 epreuve4 10
+note 2 etudiant25 matiere1 epreuve4 13
+note 1 etudiant7 matiere1 epreuve3 15
+note 2 etudiant24 matiere3 epreuve5 14
+note 1 etudiant12 matiere3 epreuve1 6
+note 1 etudiant19 matiere2 epreuve3 12
+note 2 etudiant9 matiere3 epreuve5 9
+note 2 etudiant15 matiere4 epreuve3 9
+releve 1 etudiant9
+releve 2 etudiant9
+note 2 etudiant25 matiere2 epreuve2 12
+note 2 etudiant14 matiere3 epreuve1 16
+note 1 etudiant13 matiere1 epreuve1 11
+note 2 etudiant27 matiere2 epreuve5 15
+note 2 etudiant10 matiere4 epreuve3 11
+releve 1 etudiant12
+note 2 etudiant4 matiere4 epreuve3 10
+note 1 etudiant25 matiere2 epreuve4 6
+note 1 etudiant29 matiere1 epreuve1 8
+note 1 etudiant28 matiere3 epreuve4 13
+note 1 etudiant7 matiere3 epreuve4 8
+releve 1 etudiant4
+note 2 etudiant23 matiere3 epreuve5 11
+note 2 etudiant24 matiere4 epreuve4 6
+note 2 etudiant28 matiere4 epreuve4 13
+note 1 etudiant8 matiere1 epreuve2 13
+note 2 etudiant27 matiere2 epreuve2 15
+note 1 etudiant25 matiere3 epreuve4 6
+note 1 etudiant16 matiere1 epreuve2 12
+releve 2 etudiant29
+note 2 etudiant21 matiere4 epreuve2 9
+note 1 etudiant14 matiere2 epreuve2 4
+releve 1 etudiant13
+note 1 etudiant16 matiere1 epreuve1 8
+note 2 etudiant26 matiere3 epreuve5 10
+note 2 etudiant26 matiere1 epreuve2 14
+note 1 etudiant23 matiere3 epreuve4 13
+decision etudiant2
+note 2 etudiant10 matiere1 epreuve1 11
+note 2 etudiant23 matiere1 epreuve2 11
+note 1 etudiant25 matiere1 epreuve2 5
+note 2 etudiant20 matiere3 epreuve1 11
+note 2 etudiant16 matiere3 epreuve3 8
+note 2 etudiant8 matiere1 epreuve2 13
+note 1 etudiant5 matiere1 epreuve1 13
+note 2 etudiant10 matiere2 epreuve4 11
+note 2 etudiant30 matiere4 epreuve1 13
+note 2 etudiant12 matiere1 epreuve5 13
+note 2 etudiant14 matiere1 epreuve5 11
+note 2 etudiant11 matiere4 epreuve4 10
+note 1 etudiant18 matiere2 epreuve3 12
+note 2 etudiant13 matiere3 epreuve3 10
+note 1 etudiant17 matiere2 epreuve2 9
+note 2 etudiant28 matiere1 epreuve4 13
+note 2 etudiant15 matiere3 epreuve2 11
+note 2 etudiant29 matiere2 epreuve3 17
+note 2 etudiant7 matiere3 epreuve3 11
+decision etudiant4
+note 2 etudiant23 matiere3 epreuve1 13
+note 2 etudiant3 matiere4 epreuve2 11
+decision etudiant6
+note 1 etudiant11 matiere1 epreuve1 14
+note 1 etudiant28 matiere3 epreuve1 16
+note 2 etudiant22 matiere2 epreuve2 12
+note 2 etudiant13 matiere1 epreuve5 13
+note 2 etudiant1 matiere1 epreuve5 15
+note 2 etudiant4 matiere3 epreuve5 9
+note 1 etudiant21 matiere1 epreuve1 10
+note 2 etudiant20 matiere4 epreuve1 10
+note 2 etudiant3 matiere2 epreuve3 11
+note 2 etudiant2 matiere1 epreuve3 11
+note 2 etudiant5 matiere1 epreuve2 8
+note 1 etudiant13 matiere3 epreuve2 8
+note 2 etudiant19 matiere1 epreuve5 7
+note 1 etudiant7 matiere3 epreuve3 12
+note 2 etudiant5 matiere3 epreuve3 7
+note 1 etudiant27 matiere3 epreuve1 4
+note 2 etudiant2 matiere2 epreuve3 15
+note 1 etudiant15 matiere2 epreuve3 20
+note 2 etudiant21 matiere3 epreuve3 14
+note 2 etudiant20 matiere2 epreuve4 10
+note 2 etudiant1 matiere4 epreuve5 5
+note 1 etudiant14 matiere2 epreuve3 8
+note 2 etudiant11 matiere4 epreuve2 7
+note 2 etudiant30 matiere3 epreuve2 7
+note 2 etudiant29 matiere1 epreuve3 11
+note 1 etudiant21 matiere3 epreuve2 12
+note 2 etudiant8 matiere1 epreuve5 17
+note 1 etudiant27 matiere2 epreuve3 13
+note 1 etudiant26 matiere1 epreuve4 13
+note 1 etudiant23 matiere3 epreuve1 10
+note 2 etudiant24 matiere4 epreuve1 10
+note 1 etudiant27 matiere1 epreuve2 12
+note 2 etudiant13 matiere4 epreuve5 13
+note 2 etudiant16 matiere1 epreuve2 16
+note 2 etudiant19 matiere4 epreuve1 7
+note 2 etudiant14 matiere2 epreuve1 10
+note 2 etudiant6 matiere2 epreuve3 15
+note 2 etudiant13 matiere1 epreuve2 8
+note 1 etudiant11 matiere2 epreuve2 15
+note 1 etudiant25 matiere2 epreuve3 11
+note 2 etudiant5 matiere3 epreuve4 14
+note 1 etudiant8 matiere2 epreuve2 12
+note 2 etudiant15 matiere1 epreuve3 4
+note 2 etudiant5 matiere4 epreuve1 5
+note 1 etudiant9 matiere1 epreuve1 8
+releve 1 etudiant26
+note 2 etudiant25 matiere3 epreuve3 14
+note 2 etudiant19 matiere4 epreuve3 7
+note 2 etudiant6 matiere1 epreuve1 13
+note 1 etudiant20 matiere1 epreuve2 14
+note 1 etudiant28 matiere3 epreuve3 11
+note 2 etudiant13 matiere3 epreuve1 9
+note 2 etudiant1 matiere4 epreuve4 18
+note 2 etudiant16 matiere4 epreuve5 12
+decision etudiant27
+note 2 etudiant11 matiere1 epreuve3 14
+note 2 etudiant30 matiere2 epreuve1 7
+note 1 etudiant24 matiere1 epreuve2 12
+note 1 etudiant21 matiere1 epreuve2 10
+releve 2 etudiant26
+note 2 etudiant28 matiere1 epreuve3 9
+note 1 etudiant22 matiere2 epreuve3 10
+releve 2 etudiant18
+note 2 etudiant3 matiere3 epreuve1 11
+note 2 etudiant13 matiere2 epreuve2 12
+note 2 etudiant14 matiere2 epreuve5 11
+note 2 etudiant6 matiere2 epreuve5 16
+note 2 etudiant29 matiere4 epreuve4 15
+note 1 etudiant19 matiere2 epreuve1 12
+releve 2 etudiant6
+note 2 etudiant16 matiere2 epreuve3 7
+note 2 etudiant28 matiere2 epreuve2 8
+note 2 etudiant7 matiere1 epreuve4 10
+note 2 etudiant3 matiere2 epreuve1 10
+note 2 etudiant9 matiere1 epreuve5 13
+note 2 etudiant16 matiere1 epreuve1 9
+note 2 etudiant3 matiere4 epreuve1 10
+note 2 etudiant21 matiere2 epreuve2 13
+note 2 etudiant14 matiere4 epreuve2 12
+note 2 etudiant17 matiere3 epreuve4 8
+note 2 etudiant15 matiere3 epreuve5 13
+note 1 etudiant7 matiere2 epreuve2 11
+note 2 etudiant10 matiere2 epreuve1 10
+decision etudiant28
+note 2 etudiant20 matiere1 epreuve5 7
+note 2 etudiant9 matiere1 epreuve1 11
+note 1 etudiant16 matiere3 epreuve4 10
+note 1 etudiant17 matiere1 epreuve1 7
+note 1 etudiant25 matiere1 epreuve1 3
+decision etudiant22
+note 2 etudiant16 matiere1 epreuve4 15
+note 1 etudiant28 matiere1 epreuve3 8
+note 2 etudiant9 matiere4 epreuve2 10
+note 2 etudiant27 matiere4 epreuve3 15
+note 2 etudiant16 matiere4 epreuve4 10
+note 2 etudiant25 matiere2 epreuve5 9
+note 1 etudiant18 matiere2 epreuve2 14
+note 1 etudiant28 matiere1 epreuve4 11
+note 2 etudiant5 matiere3 epreuve2 9
+note 2 etudiant4 matiere3 epreuve4 11
+note 1 etudiant20 matiere1 epreuve1 17
+note 2 etudiant29 matiere4 epreuve3 11
+note 1 etudiant15 matiere1 epreuve1 6
+note 2 etudiant27 matiere1 epreuve4 8
+releve 1 etudiant25
+note 2 etudiant5 matiere4 epreuve5 12
+note 1 etudiant5 matiere3 epreuve3 11
+note 2 etudiant5 matiere4 epreuve3 10
+note 2 etudiant23 matiere4 epreuve4 12
+note 2 etudiant9 matiere1 epreuve4 10
+note 2 etudiant6 matiere3 epreuve4 11
+note 1 etudiant10 matiere2 epreuve4 17
+note 2 etudiant20 matiere3 epreuve5 18
+decision etudiant8
+note 1 etudiant18 matiere1 epreuve4 15
+note 2 etudiant22 matiere2 epreuve1 18
+note 2 etudiant15 matiere2 epreuve5 12
+note 2 etudiant7 matiere4 epreuve3 15
+note 2 etudiant2 matiere2 epreuve4 11
+note 2 etudiant29 matiere1 epreuve5 13
+note 1 etudiant19 matiere3 epreuve3 6
+note 2 etudiant12 matiere4 epreuve3 9
+note 1 etudiant9 matiere2 epreuve4 11
+note 1 etudiant30 matiere3 epreuve1 12
+note 2 etudiant26 matiere4 epreuve4 14
+note 1 etudiant25 matiere3 epreuve2 15
+note 2 etudiant10 matiere1 epreuve3 13
+note 1 etudiant12 matiere1 epreuve4 16
+note 1 etudiant2 matiere1 epreuve3 11
+releve 1 etudiant5
+note 2 etudiant30 matiere2 epreuve2 12
+note 2 etudiant10 matiere3 epreuve1 15
+note 1 etudiant3 matiere2 epreuve3 17
+note 1 etudiant5 matiere2 epreuve4 3
+note 1 etudiant15 matiere3 epreuve2 6
+note 1 etudiant14 matiere3 epreuve4 14
+note 1 etudiant27 matiere2 epreuve4 13
+note 2 etudiant28 matiere2 epreuve5 16
+note 2 etudiant24 matiere1 epreuve2 7
+note 2 etudiant22 matiere4 epreuve3 15
+note 2 etudiant2 matiere4 epreuve2 10
+note 1 etudiant27 matiere3 epreuve2 9
+note 2 etudiant17 matiere2 epreuve3 17
+note 1 etudiant24 matiere3 epreuve4 14
+note 2 etudiant18 matiere4 epreuve1 11
+note 1 etudiant7 matiere1 epreuve1 7
+note 1 etudiant26 matiere2 epreuve3 12
+note 2 etudiant10 matiere4 epreuve4 14
+note 2 etudiant21 matiere3 epreuve5 14
+note 2 etudiant12 matiere1 epreuve3 15
+releve 2 etudiant5
+note 1 etudiant8 matiere1 epreuve3 12
+note 2 etudiant25 matiere1 epreuve3 12
+note 2 etudiant6 matiere2 epreuve2 13
+note 1 etudiant1 matiere1 epreuve3 12
+releve 1 etudiant19
+note 1 etudiant22 matiere1 epreuve3 14
+note 1 etudiant20 matiere2 epreuve3 6
+note 2 etudiant11 matiere3 epreuve2 10
+note 2 etudiant13 matiere3 epreuve2 13
+note 2 etudiant3 matiere1 epreuve1 13
+note 2 etudiant19 matiere1 epreuve1 12
+note 2 etudiant28 matiere3 epreuve5 16
+note 2 etudiant2 matiere3 epreuve2 8
+releve 2 etudiant30
+note 2 etudiant25 matiere4 epreuve4 11
+note 1 etudiant27 matiere2 epreuve1 14
+note 2 etudiant25 matiere1 epreuve1 13
+note 2 etudiant25 matiere3 epreuve2 6
+note 2 etudiant16 matiere3 epreuve2 9
+note 2 etudiant11 matiere2 epreuve2 8
+decision etudiant23
+note 2 etudiant17 matiere2 epreuve2 9
+note 2 etudiant9 matiere2 epreuve4 14
+note 1 etudiant12 matiere2 epreuve4 6
+note 2 etudiant1 matiere2 epreuve2 10
+note 2 etudiant23 matiere1 epreuve3 11
+note 2 etudiant7 matiere1 epreuve3 13
+note 2 etudiant5 matiere1 epreuve5 14
+note 2 etudiant24 matiere1 epreuve1 8
+note 1 etudiant12 matiere2 epreuve1 13
+note 2 etudiant21 matiere3 epreuve2 13
+note 2 etudiant1 matiere2 epreuve5 6
+note 1 etudiant22 matiere3 epreuve1 9
+note 2 etudiant21 matiere2 epreuve5 9
+note 2 etudiant19 matiere3 epreuve5 10
+note 2 etudiant20 matiere1 epreuve3 5
+note 2 etudiant18 matiere3 epreuve1 9
+decision etudiant30
+note 1 etudiant3 matiere1 epreuve3 9
+releve 1 etudiant21
+note 2 etudiant2 matiere4 epreuve5 11
+note 2 etudiant24 matiere4 epreuve3 12
+note 2 etudiant12 matiere4 epreuve1 11
+note 1 etudiant13 matiere1 epreuve2 8
+note 2 etudiant30 matiere4 epreuve3 9
+note 1 etudiant6 matiere2 epreuve2 7
+note 2 etudiant1 matiere2 epreuve3 12
+note 2 etudiant6 matiere1 epreuve4 7
+releve 2 etudiant28
+note 1 etudiant16 matiere1 epreuve4 12
+note 1 etudiant4 matiere2 epreuve2 10
+note 2 etudiant25 matiere2 epreuve3 13
+note 2 etudiant4 matiere1 epreuve4 4
+note 1 etudiant3 matiere3 epreuve1 7
+note 2 etudiant25 matiere4 epreuve2 15
+note 2 etudiant18 matiere3 epreuve4 11
+note 2 etudiant1 matiere4 epreuve2 15
+note 1 etudiant24 matiere2 epreuve2 19
+note 1 etudiant19 matiere3 epreuve1 6
+note 1 etudiant9 matiere2 epreuve1 6
+note 2 etudiant9 matiere3 epreuve2 12
+note 2 etudiant7 matiere4 epreuve2 13
+note 2 etudiant27 matiere4 epreuve2 13
+note 1 etudiant14 matiere1 epreuve1 9
+note 1 etudiant15 matiere2 epreuve4 15
+note 2 etudiant7 matiere2 epreuve1 13
+note 1 etudiant11 matiere3 epreuve4 12
+note 2 etudiant7 matiere1 epreuve1 11
+note 2 etudiant15 matiere4 epreuve2 14
+note 2 etudiant22 matiere1 epreuve1 11
+note 2 etudiant22 matiere4 epreuve2 9
+note 2 etudiant14 matiere1 epreuve4 8
+note 2 etudiant13 matiere2 epreuve1 16
+note 2 etudiant3 matiere4 epreuve4 15
+decision etudiant17
+note 1 etudiant2 matiere1 epreuve2 8
+note 2 etudiant28 matiere4 epreuve3 9
+decision etudiant24
+note 1 etudiant28 matiere2 epreuve4 6
+note 1 etudiant17 matiere3 epreuve4 13
+note 1 etudiant29 matiere2 epreuve4 16
+note 2 etudiant29 matiere2 epreuve1 12
+note 2 etudiant11 matiere4 epreuve5 10
+note 1 etudiant11 matiere3 epreuve1 12
+note 1 etudiant4 matiere1 epreuve1 12
+note 2 etudiant20 matiere1 epreuve4 9
+note 1 etudiant21 matiere2 epreuve3 16
+note 2 etudiant20 matiere2 epreuve1 5
+note 1 etudiant28 matiere3 epreuve2 15
+note 2 etudiant18 matiere3 epreuve2 8
+decision etudiant9
+note 1 etudiant21 matiere2 epreuve4 12
+note 2 etudiant29 matiere3 epreuve3 8
+note 2 etudiant30 matiere3 epreuve4 8
+note 2 etudiant28 matiere4 epreuve5 7
+note 1 etudiant30 matiere2 epreuve4 16
+note 1 etudiant5 matiere3 epreuve2 11
+note 1 etudiant19 matiere1 epreuve4 8
+note 2 etudiant2 matiere2 epreuve1 7
+note 1 etudiant2 matiere1 epreuve1 11
+note 2 etudiant13 matiere1 epreuve1 16
+note 1 etudiant16 matiere2 epreuve1 15
+note 2 etudiant11 matiere1 epreuve1 12
+note 2 etudiant16 matiere4 epreuve1 12
+note 2 etudiant25 matiere3 epreuve4 10
+releve 1 etudiant3
+note 2 etudiant1 matiere1 epreuve1 9
+note 2 etudiant8 matiere4 epreuve5 16
+note 2 etudiant30 matiere1 epreuve3 3
+releve 1 etudiant15
+note 2 etudiant20 matiere2 epreuve2 13
+note 2 etudiant29 matiere1 epreuve1 14
+note 1 etudiant5 matiere1 epreuve3 11
+note 1 etudiant21 matiere3 epreuve3 11
+note 2 etudiant30 matiere4 epreuve2 10
+note 1 etudiant15 matiere3 epreuve3 14
+note 2 etudiant17 matiere4 epreuve3 10
+note 1 etudiant21 matiere3 epreuve1 13
+note 2 etudiant14 matiere3 epreuve2 6
+note 1 etudiant29 matiere3 epreuve2 7
+note 2 etudiant14 matiere4 epreuve1 17
+note 1 etudiant17 matiere3 epreuve2 11
+note 2 etudiant17 matiere3 epreuve3 12
+note 2 etudiant13 matiere4 epreuve2 5
+note 2 etudiant21 matiere3 epreuve4 12
+note 1 etudiant13 matiere1 epreuve4 16
+note 2 etudiant1 matiere3 epreuve4 12
+note 2 etudiant19 matiere3 epreuve3 8
+decision etudiant11
+note 1 etudiant6 matiere2 epreuve4 16
+note 2 etudiant26 matiere2 epreuve4 11
+note 2 etudiant17 matiere4 epreuve2 8
+note 1 etudiant30 matiere1 epreuve4 15
+note 2 etudiant3 matiere4 epreuve5 15
+note 2 etudiant20 matiere1 epreuve1 15
+note 2 etudiant23 matiere2 epreuve2 15
+note 2 etudiant21 matiere3 epreuve1 18
+note 2 etudiant4 matiere1 epreuve5 11
+note 1 etudiant1 matiere1 epreuve4 14
+note 2 etudiant4 matiere2 epreuve1 7
+note 2 etudiant16 matiere2 epreuve1 15
+note 1 etudiant10 matiere2 epreuve1 7
+releve 2 etudiant21
+note 2 etudiant30 matiere3 epreuve5 11
+note 2 etudiant29 matiere4 epreuve1 10
+note 1 etudiant5 matiere3 epreuve1 9
+note 2 etudiant9 matiere2 epreuve3 12
+note 1 etudiant13 matiere2 epreuve2 5
+note 1 etudiant2 matiere2 epreuve3 15
+note 1 etudiant30 matiere1 epreuve2 13
+note 1 etudiant13 matiere3 epreuve3 14
+note 1 etudiant27 matiere1 epreuve1 6
+note 1 etudiant10 matiere2 epreuve2 11
+note 2 etudiant24 matiere3 epreuve4 6
+note 1 etudiant11 matiere2 epreuve3 7
+releve 2 etudiant11
+note 2 etudiant18 matiere2 epreuve4 7
+note 2 etudiant29 matiere2 epreuve4 6
+note 1 etudiant24 matiere1 epreuve4 9
+note 2 etudiant7 matiere2 epreuve3 11
+note 2 etudiant13 matiere4 epreuve4 12
+note 2 etudiant1 matiere1 epreuve2 10
+note 2 etudiant22 matiere1 epreuve3 11
+note 2 etudiant14 matiere2 epreuve2 10
+note 1 etudiant1 matiere3 epreuve4 13
+note 2 etudiant2 matiere4 epreuve3 8
+note 1 etudiant28 matiere1 epreuve2 10
+note 2 etudiant21 matiere1 epreuve5 11
+note 2 etudiant5 matiere2 epreuve3 9
+note 2 etudiant27 matiere4 epreuve4 11
+note 2 etudiant18 matiere3 epreuve5 14
+note 1 etudiant15 matiere1 epreuve2 11
+note 2 etudiant6 matiere4 epreuve4 17
+note 1 etudiant30 matiere3 epreuve2 10
+note 2 etudiant13 matiere2 epreuve4 9
+note 1 etudiant15 matiere2 epreuve1 12
+note 1 etudiant15 matiere3 epreuve4 14
+decision etudiant1
+note 1 etudiant21 matiere2 epreuve1 15
+releve 2 etudiant25
+note 2 etudiant28 matiere3 epreuve1 15
+note 2 etudiant11 matiere2 epreuve3 13
+note 1 etudiant22 matiere1 epreuve2 13
+note 2 etudiant29 matiere1 epreuve4 12
+note 1 etudiant20 matiere2 epreuve1 15
+note 1 etudiant13 matiere3 epreuve1 12
+note 1 etudiant18 matiere2 epreuve4 14
+note 2 etudiant20 matiere1 epreuve2 14
+note 1 etudiant16 matiere1 epreuve3 17
+note 2 etudiant22 matiere1 epreuve4 12
+releve 1 etudiant17
+note 2 etudiant20 matiere4 epreuve5 10
+decision etudiant12
+note 2 etudiant10 matiere2 epreuve5 13
+note 2 etudiant28 matiere3 epreuve2 8
+note 2 etudiant11 matiere1 epreuve4 12
+note 2 etudiant17 matiere3 epreuve2 8
+note 2 etudiant18 matiere2 epreuve2 13
+note 2 etudiant3 matiere1 epreuve5 14
+note 1 etudiant18 matiere3 epreuve1 11
+note 2 etudiant1 matiere1 epreuve4 11
+note 1 etudiant23 matiere2 epreuve2 6
+note 2 etudiant22 matiere4 epreuve1 16
+note 2 etudiant7 matiere3 epreuve2 11
+note 2 etudiant2 matiere4 epreuve4 12
+note 2 etudiant5 matiere1 epreuve1 13
+note 2 etudiant20 matiere2 epreuve5 8
+note 2 etudiant8 matiere2 epreuve4 9
+note 2 etudiant23 matiere4 epreuve3 11
+note 2 etudiant8 matiere2 epreuve2 11
+note 1 etudiant20 matiere1 epreuve3 8
+note 2 etudiant16 matiere4 epreuve3 8
+note 2 etudiant27 matiere1 epreuve1 15
+note 2 etudiant7 matiere4 epreuve4 14
+note 2 etudiant2 matiere1 epreuve1 8
+note 1 etudiant19 matiere1 epreuve1 16
+note 2 etudiant19 matiere1 epreuve4 9
+note 2 etudiant11 matiere3 epreuve1 13
+note 2 etudiant22 matiere4 epreuve4 18
+note 1 etudiant3 matiere3 epreuve2 10
+note 2 etudiant20 matiere2 epreuve3 12
+note 2 etudiant22 matiere1 epreuve2 11
+decision etudiant14
+note 2 etudiant8 matiere3 epreuve5 15
+note 1 etudiant3 matiere1 epreuve1 14
+note 2 etudiant12 matiere1 epreuve4 12
+note 2 etudiant12 matiere2 epreuve4 9
+note 2 etudiant5 matiere3 epreuve5 11
+note 2 etudiant17 matiere2 epreuve1 13
+note 2 etudiant30 matiere1 epreuve4 15
+note 2 etudiant11 matiere3 epreuve5 12
+note 2 etudiant12 matiere1 epreuve1 6
+note 2 etudiant21 matiere2 epreuve4 9
+note 2 etudiant2 matiere3 epreuve4 6
+note 1 etudiant10 matiere3 epreuve3 9
+note 2 etudiant22 matiere2 epreuve3 10
+note 2 etudiant7 matiere3 epreuve5 10
+decision etudiant13
+note 2 etudiant4 matiere1 epreuve3 12
+note 1 etudiant25 matiere1 epreuve3 15
+note 2 etudiant19 matiere3 epreuve2 9
+note 2 etudiant26 matiere2 epreuve3 14
+note 2 etudiant14 matiere2 epreuve3 12
+note 2 etudiant16 matiere2 epreuve5 15
+note 1 etudiant21 matiere2 epreuve2 4
+note 1 etudiant21 matiere3 epreuve4 7
+note 2 etudiant9 matiere1 epreuve3 11
+note 1 etudiant18 matiere3 epreuve4 7
+note 2 etudiant26 matiere1 epreuve3 8
+note 1 etudiant3 matiere2 epreuve4 13
+note 2 etudiant25 matiere1 epreuve2 11
+note 2 etudiant4 matiere2 epreuve5 10
+note 1 etudiant24 matiere3 epreuve3 13
+note 2 etudiant4 matiere4 epreuve2 12
+releve 2 etudiant14
+note 1 etudiant24 matiere2 epreuve1 17
+decision etudiant16
+note 1 etudiant4 matiere2 epreuve3 10
+note 2 etudiant9 matiere4 epreuve5 6
+note 2 etudiant10 matiere4 epreuve1 10
+note 1 etudiant13 matiere2 epreuve4 9
+note 2 etudiant18 matiere1 epreuve3 11
+note 2 etudiant27 matiere2 epreuve3 15
+note 1 etudiant20 matiere3 epreuve1 17
+releve 2 etudiant23
+releve 1 etudiant7
+note 2 etudiant8 matiere3 epreuve3 12
+note 1 etudiant5 matiere2 epreuve3 4
+note 1 etudiant23 matiere3 epreuve2 10
+note 2 etudiant13 matiere2 epreuve5 8
+note 1 etudiant17 matiere3 epreuve3 14
+note 1 etudiant29 matiere3 epreuve4 15
+note 2 etudiant5 matiere2 epreuve1 16
+note 1 etudiant7 matiere3 epreuve2 8
+note 1 etudiant11 matiere1 epreuve2 8
+releve 2 etudiant3
+note 1 etudiant28 matiere2 epreuve2 4
+note 2 etudiant21 matiere2 epreuve1 8
+note 2 etudiant24 matiere2 epreuve5 10
+note 1 etudiant8 matiere3 epreuve2 13
+note 2 etudiant27 matiere3 epreuve4 8
+note 2 etudiant15 matiere1 epreuve4 12
+note 2 etudiant14 matiere4 epreuve3 9
+note 2 etudiant23 matiere3 epreuve2 15
+note 2 etudiant19 matiere2 epreuve5 8
+note 2 etudiant11 matiere2 epreuve4 13
+note 2 etudiant25 matiere4 epreuve1 8
+note 2 etudiant12 matiere3 epreuve3 16
+note 2 etudiant14 matiere2 epreuve4 6
+decision etudiant25
+note 1 etudiant22 matiere3 epreuve4 12
+note 2 etudiant7 matiere3 epreuve4 11
+note 1 etudiant13 matiere2 epreuve1 11
+note 2 etudiant30 matiere2 epreuve4 11
+note 1 etudiant27 matiere1 epreuve4 8
+note 2 etudiant21 matiere4 epreuve1 11
+note 2 etudiant13 matiere4 epreuve3 6
+note 1 etudiant28 matiere1 epreuve1 16
+note 1 etudiant18 matiere1 epreuve3 10
+note 2 etudiant10 matiere3 epreuve4 10
+note 2 etudiant12 matiere3 epreuve2 7
+note 2 etudiant19 matiere2 epreuve3 15
+note 2 etudiant2 matiere1 epreuve4 6
+note 1 etudiant14 matiere1 epreuve2 6
+note 2 etudiant15 matiere3 epreuve1 14
+note 2 etudiant19 matiere4 epreuve4 9
+note 2 etudiant12 matiere2 epreuve5 12
+note 2 etudiant9 matiere4 epreuve1 4
+note 2 etudiant14 matiere1 epreuve2 4
+note 2 etudiant4 matiere1 epreuve2 14
+note 2 etudiant10 matiere2 epreuve2 7
+note 2 etudiant1 matiere3 epreuve3 17
+note 2 etudiant4 matiere4 epreuve5 14
+note 2 etudiant9 matiere3 epreuve1 10
+note 1 etudiant4 matiere2 epreuve4 13
+note 1 etudiant18 matiere3 epreuve2 12
+note 2 etudiant22 matiere4 epreuve5 5
+note 2 etudiant12 matiere2 epreuve3 10
+note 1 etudiant9 matiere1 epreuve3 11
+note 2 etudiant22 matiere3 epreuve1 18
+note 2 etudiant18 matiere1 epreuve1 11
+note 2 etudiant23 matiere2 epreuve3 8
+note 2 etudiant5 matiere2 epreuve2 11
+note 2 etudiant26 matiere3 epreuve4 8
+note 2 etudiant16 matiere1 epreuve3 16
+note 2 etudiant21 matiere1 epreuve1 5
+note 2 etudiant17 matiere4 epreuve1 13
+releve 2 etudiant1
+note 2 etudiant25 matiere2 epreuve4 13
+note 1 etudiant10 matiere1 epreuve4 5
+note 2 etudiant21 matiere4 epreuve4 11
+note 1 etudiant3 matiere2 epreuve1 11
+note 2 etudiant23 matiere4 epreuve2 14
+note 2 etudiant25 matiere4 epreuve5 11
+note 1 etudiant20 matiere3 epreuve2 13
+note 2 etudiant4 matiere2 epreuve2 12
+note 2 etudiant17 matiere1 epreuve2 10
+note 2 etudiant4 matiere3 epreuve1 11
+note 1 etudiant8 matiere3 epreuve3 14
+releve 1 etudiant23
+note 2 etudiant27 matiere1 epreuve3 14
+note 2 etudiant8 matiere3 epreuve1 14
+decision etudiant21
+note 2 etudiant27 matiere3 epreuve3 10
+note 2 etudiant6 matiere3 epreuve2 10
+note 2 etudiant28 matiere3 epreuve3 13
+note 1 etudiant8 matiere1 epreuve1 7
+note 1 etudiant11 matiere1 epreuve4 12
+note 2 etudiant30 matiere2 epreuve5 12
+note 2 etudiant14 matiere1 epreuve1 12
+note 2 etudiant6 matiere3 epreuve3 12
+releve 1 etudiant6
+note 1 etudiant25 matiere3 epreuve3 16
+note 2 etudiant22 matiere3 epreuve4 10
+note 2 etudiant23 matiere3 epreuve3 11
+note 2 etudiant19 matiere1 epreuve2 11
+note 2 etudiant24 matiere3 epreuve3 13
+note 1 etudiant7 matiere1 epreuve4 9
+note 2 etudiant12 matiere1 epreuve2 11
+note 2 etudiant6 matiere2 epreuve4 13
+note 2 etudiant11 matiere1 epreuve2 13
+note 2 etudiant27 matiere4 epreuve1 8
+note 1 etudiant29 matiere3 epreuve1 9
+note 2 etudiant26 matiere3 epreuve1 16
+note 1 etudiant30 matiere2 epreuve2 16
+note 1 etudiant11 matiere1 epreuve3 16
+note 2 etudiant25 matiere3 epreuve5 11
+note 1 etudiant15 matiere1 epreuve4 7
+note 1 etudiant12 matiere1 epreuve3 12
+note 1 etudiant11 matiere2 epreuve4 9
+note 1 etudiant20 matiere2 epreuve2 9
+note 2 etudiant25 matiere2 epreuve1 11
+note 1 etudiant28 matiere2 epreuve1 8
+note 1 etudiant7 matiere3 epreuve1 11
+note 1 etudiant27 matiere1 epreuve3 8
+note 2 etudiant3 matiere2 epreuve5 12
+note 2 etudiant9 matiere4 epreuve4 10
+note 2 etudiant5 matiere2 epreuve5 12
+note 2 etudiant12 matiere2 epreuve2 17
+note 1 etudiant13 matiere2 epreuve3 11
+note 1 etudiant18 matiere3 epreuve3 13
+note 2 etudiant25 matiere1 epreuve5 11
+note 1 etudiant10 matiere3 epreuve2 9
+note 2 etudiant11 matiere4 epreuve1 11
+releve 2 etudiant10
+note 1 etudiant7 matiere2 epreuve1 13
+releve 1 etudiant28
+note 2 etudiant7 matiere2 epreuve2 16
+note 2 etudiant8 matiere2 epreuve5 6
+note 2 etudiant19 matiere4 epreuve2 15
+note 1 etudiant8 matiere2 epreuve4 12
+note 1 etudiant7 matiere2 epreuve3 5
+note 2 etudiant11 matiere3 epreuve4 16
+note 1 etudiant23 matiere1 epreuve4 4
+note 2 etudiant15 matiere2 epreuve4 12
+decision etudiant26
+note 2 etudiant7 matiere4 epreuve1 15
+decision etudiant20
+note 2 etudiant3 matiere3 epreuve5 15
+note 2 etudiant16 matiere3 epreuve5 12
+releve 1 etudiant1
+releve 2 etudiant1
+releve 1 etudiant2
+releve 2 etudiant2
+releve 1 etudiant3
+releve 2 etudiant3
+releve 1 etudiant4
+releve 2 etudiant4
+releve 1 etudiant5
+releve 2 etudiant5
+releve 1 etudiant6
+releve 2 etudiant6
+releve 1 etudiant7
+releve 2 etudiant7
+releve 1 etudiant8
+releve 2 etudiant8
+releve 1 etudiant9
+releve 2 etudiant9
+releve 1 etudiant10
+releve 2 etudiant10
+releve 1 etudiant11
+releve 2 etudiant11
+releve 1 etudiant12
+releve 2 etudiant12
+releve 1 etudiant13
+releve 2 etudiant13
+releve 1 etudiant14
+releve 2 etudiant14
+releve 1 etudiant15
+releve 2 etudiant15
+releve 1 etudiant16
+releve 2 etudiant16
+releve 1 etudiant17
+releve 2 etudiant17
+releve 1 etudiant18
+releve 2 etudiant18
+releve 1 etudiant19
+releve 2 etudiant19
+releve 1 etudiant20
+releve 2 etudiant20
+releve 1 etudiant21
+releve 2 etudiant21
+releve 1 etudiant22
+releve 2 etudiant22
+releve 1 etudiant23
+releve 2 etudiant23
+releve 1 etudiant24
+releve 2 etudiant24
+releve 1 etudiant25
+releve 2 etudiant25
+releve 1 etudiant26
+releve 2 etudiant26
+releve 1 etudiant27
+releve 2 etudiant27
+releve 1 etudiant28
+releve 2 etudiant28
+releve 1 etudiant29
+releve 2 etudiant29
+releve 1 etudiant30
+releve 2 etudiant30
+decision etudiant1
+decision etudiant2
+decision etudiant3
+decision etudiant4
+decision etudiant5
+decision etudiant6
+decision etudiant7
+decision etudiant8
+decision etudiant9
+decision etudiant10
+decision etudiant11
+decision etudiant12
+decision etudiant13
+decision etudiant14
+decision etudiant15
+decision etudiant16
+decision etudiant17
+decision etudiant18
+decision etudiant19
+decision etudiant20
+decision etudiant21
+decision etudiant22
+decision etudiant23
+decision etudiant24
+decision etudiant25
+decision etudiant26
+decision etudiant27
+decision etudiant28
+decision etudiant29
+decision etudiant30
+exit
